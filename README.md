@@ -532,6 +532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**ArcaNN: automated enhanced sampling generation of training sets for chemically reactive machine learning interatomic potentials**|Rolf David et.al.|[2407.07751](http://arxiv.org/abs/2407.07751)|null|
 |**2024-07-09**|**Simulations of Mpemba Effect in WATER, Lennard-Jones and Ising Models: Metastability vs Critical Fluctuations**|Soumik Ghosh et.al.|[2407.06954](http://arxiv.org/abs/2407.06954)|null|
 |**2024-07-08**|**Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design**|Boshen Zeng et.al.|[2407.06152](http://arxiv.org/abs/2407.06152)|null|
 |**2024-07-08**|**Reactive Molecular Dynamics Simulation on DNA Double Strand Breaks Induced by Hydrogen Elimination**|Hiroaki Nakamura et.al.|[2407.05970](http://arxiv.org/abs/2407.05970)|null|
@@ -801,6 +802,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
+|**2024-07-10**|**Estimating the stability number of a random graph using convolutional neural networks**|Randy Davila et.al.|[2407.07827](http://arxiv.org/abs/2407.07827)|null|
+|**2024-07-10**|**New Gravitational Wave Discoveries Enabled by Machine Learning**|Alexandra E. Koloniari et.al.|[2407.07820](http://arxiv.org/abs/2407.07820)|null|
+|**2024-07-10**|**A Survey on Deep Stereo Matching in the Twenties**|Fabio Tosi et.al.|[2407.07816](http://arxiv.org/abs/2407.07816)|**[link](https://github.com/fabiotosi92/awesome-deep-stereo-matching)**|
+|**2024-07-10**|**SUMix: Mixup with Semantic and Uncertain Information**|Huafeng Qin et.al.|[2407.07805](http://arxiv.org/abs/2407.07805)|**[link](https://github.com/jinxins/sumix)**|
+|**2024-07-10**|**Cross Domain Object Detection via Multi-Granularity Confidence Alignment based Mean Teacher**|Jiangming Chen et.al.|[2407.07780](http://arxiv.org/abs/2407.07780)|null|
+|**2024-07-10**|**SvANet: A Scale-variant Attention-based Network for Small Medical Object Segmentation**|Wei Dai et.al.|[2407.07720](http://arxiv.org/abs/2407.07720)|**[link](https://github.com/anthonyweidai/SvANet)**|
+|**2024-07-10**|**Deep-Graph-Sprints: Accelerated Representation Learning in Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712](http://arxiv.org/abs/2407.07712)|null|
+|**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[2407.07684](http://arxiv.org/abs/2407.07684)|null|
+|**2024-07-10**|**The Selective G-Bispectrum and its Inversion: Applications to G-Invariant Networks**|Simon Mataigne et.al.|[2407.07655](http://arxiv.org/abs/2407.07655)|null|
+|**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633](http://arxiv.org/abs/2407.07633)|null|
+|**2024-07-10**|**Impact of dendritic non-linearities on the computational capabilities of neurons**|Clarissa Lauditi et.al.|[2407.07572](http://arxiv.org/abs/2407.07572)|null|
+|**2024-07-10**|**Evaluating the method reproducibility of deep learning models in the biodiversity domain**|Waqas Ahmed et.al.|[2407.07550](http://arxiv.org/abs/2407.07550)|null|
+|**2024-07-10**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524](http://arxiv.org/abs/2407.07524)|null|
+|**2024-07-10**|**Panoptic Segmentation of Galactic Structures in LSB Images**|Felix Richards et.al.|[2407.07494](http://arxiv.org/abs/2407.07494)|null|
+|**2024-07-10**|**Rigorous Probabilistic Guarantees for Robust Counterfactual Explanations**|Luca Marzari et.al.|[2407.07482](http://arxiv.org/abs/2407.07482)|**[link](https://github.com/lmarza/apas)**|
+|**2024-07-10**|**Secondary Structure-Guided Novel Protein Sequence Generation with Latent Graph Diffusion**|Yutong Hu et.al.|[2407.07443](http://arxiv.org/abs/2407.07443)|**[link](https://github.com/riacd/cpdiffusion-ss)**|
+|**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434](http://arxiv.org/abs/2407.07434)|null|
+|**2024-07-10**|**Stable Weight Updating: A Key to Reliable PDE Solutions Using Deep Learning**|A. Noorizadegan et.al.|[2407.07375](http://arxiv.org/abs/2407.07375)|null|
+|**2024-07-10**|**Micro-Expression Recognition by Motion Feature Extraction based on Pre-training**|Ruolin Li et.al.|[2407.07345](http://arxiv.org/abs/2407.07345)|null|
+|**2024-07-10**|**TDML -- A Trustworthy Distributed Machine Learning Framework**|Zhen Wang et.al.|[2407.07339](http://arxiv.org/abs/2407.07339)|null|
+|**2024-07-10**|**HoneyGAN Pots: A Deep Learning Approach for Generating Honeypots**|Ryan Gabrys et.al.|[2407.07292](http://arxiv.org/abs/2407.07292)|null|
+|**2024-07-09**|**Lifestyle-Informed Personalized Blood Biomarker Prediction via Novel Representation Learning**|A. Ali Heydari et.al.|[2407.07277](http://arxiv.org/abs/2407.07277)|null|
+|**2024-07-09**|**Dataset Quantization with Active Learning based Adaptive Sampling**|Zhenghao Zhao et.al.|[2407.07268](http://arxiv.org/abs/2407.07268)|null|
+|**2024-07-09**|**HAMIL-QA: Hierarchical Approach to Multiple Instance Learning for Atrial LGE MRI Quality Assessment**|K M Arefeen Sultan et.al.|[2407.07254](http://arxiv.org/abs/2407.07254)|null|
+|**2024-07-09**|**Large Language Models for Wearable Sensor-Based Human Activity Recognition, Health Monitoring, and Behavioral Modeling: A Survey of Early Trends, Datasets, and Challenges**|Emilio Ferrara et.al.|[2407.07196](http://arxiv.org/abs/2407.07196)|null|
+|**2024-07-09**|**Statistical mechanics of transfer learning in fully-connected networks in the proportional limit**|Alessandro Ingrosso et.al.|[2407.07168](http://arxiv.org/abs/2407.07168)|null|
 |**2024-07-09**|**MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2407.07078](http://arxiv.org/abs/2407.07078)|**[link](https://github.com/ZyoungXu/MoSt-DSA)**|
 |**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
 |**2024-07-09**|**Empirical analysis of Biding Precedent efficiency in the Brazilian Supreme Court via Similar Case Retrieval**|Raphaël Tinarrage et.al.|[2407.07004](http://arxiv.org/abs/2407.07004)|null|
