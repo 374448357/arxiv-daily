@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -598,7 +598,7 @@ layout: default
 |**2024-06-05**|**Topological Neural Networks go Persistent, Equivariant, and Continuous**|Yogesh Verma et.al.|[2406.03164](http://arxiv.org/abs/2406.03164)|null|
 |**2024-06-05**|**Enhancing Critical Current Density in Thin Superconductor Layers by Moiré Pinning Centers**|Zahra Owjifard et.al.|[2406.03013](http://arxiv.org/abs/2406.03013)|null|
 |**2024-06-04**|**Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory**|Vinay Vaibhav et.al.|[2406.02113](http://arxiv.org/abs/2406.02113)|null|
-|**2024-06-04**|**Molecular-Resolution Imaging of Ice Crystallized from Liquid Water**|Jingshan S. Du et.al.|[2406.00915](http://arxiv.org/abs/2406.00915)|null|
+|**2024-07-21**|**Molecular-Resolution Imaging of Ice Crystallized from Liquid Water**|Jingshan S. Du et.al.|[2406.00915](http://arxiv.org/abs/2406.00915)|null|
 |**2024-06-01**|**Molecular Modelling of Aqueous Batteries**|Alicia van Hees et.al.|[2406.00468](http://arxiv.org/abs/2406.00468)|null|
 |**2024-06-01**|**Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes**|Ganesh K Rajahmundry et.al.|[2406.00270](http://arxiv.org/abs/2406.00270)|null|
 |**2024-06-14**|**Quantum Molecular Charge-Transfer Model for Multi-step Auger-Meitner Decay Cascade Dynamics**|Adam E. A. Fouda et.al.|[2406.00201](http://arxiv.org/abs/2406.00201)|null|
