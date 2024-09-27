@@ -984,7 +984,7 @@ layout: default
 |**2024-09-25**|**WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks**|Alberto Bacchin et.al.|[2409.16999](http://arxiv.org/abs/2409.16999)|**[link](https://github.com/bach05/wastegan)**|
 |**2024-09-25**|**Informed deep hierarchical classification: a non-standard analysis inspired approach**|Lorenzo Fiaschi et.al.|[2409.16956](http://arxiv.org/abs/2409.16956)|null|
 |**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
-|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|null|
+|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-25**|**Linking in Style: Understanding learned features in deep learning models**|Maren H. Wehrheim et.al.|[2409.16865](http://arxiv.org/abs/2409.16865)|null|
 |**2024-09-25**|**IRASNet: Improved Feature-Level Clutter Reduction for Domain Generalized SAR-ATR**|Oh-Tae Jang et.al.|[2409.16845](http://arxiv.org/abs/2409.16845)|null|
 |**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821](http://arxiv.org/abs/2409.16821)|null|
@@ -1064,7 +1064,7 @@ layout: default
 |**2024-09-23**|**RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience**|Weitong Chen et.al.|[2409.14829](http://arxiv.org/abs/2409.14829)|null|
 |**2024-09-23**|**Two Deep Learning Solutions for Automatic Blurring of Faces in Videos**|Roman Plaud et.al.|[2409.14828](http://arxiv.org/abs/2409.14828)|null|
 |**2024-09-23**|**Towards Real-world Deployment of NILM Systems: Challenges and Practices**|Junyu Xue et.al.|[2409.14821](http://arxiv.org/abs/2409.14821)|null|
-|**2024-09-26**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816](http://arxiv.org/abs/2409.14816)|null|
+|**2024-09-26**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816](http://arxiv.org/abs/2409.14816)|**[link](https://gitlab.com/alessiomascolini/varade)**|
 |**2024-09-23**|**CFVNet: An End-to-End Cancelable Finger Vein Network for Recognition**|Yifan Wang et.al.|[2409.14774](http://arxiv.org/abs/2409.14774)|null|
 |**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|**[link](https://github.com/stefp/whorl_pose_detector)**|
 |**2024-09-24**|**Distribution-Level Feature Distancing for Machine Unlearning: Towards a Better Trade-off Between Model Utility and Forgetting**|Dasol Choi et.al.|[2409.14747](http://arxiv.org/abs/2409.14747)|null|
@@ -5873,7 +5873,7 @@ layout: default
 |**2024-07-10**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-05-30**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|**[link](https://github.com/MDL-UzL/DenseSeg)**|
 |**2024-08-09**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
-|**2024-09-26**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
+|**2024-09-26**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|**[link](https://github.com/tk-rusch/mpmc)**|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-04-05**|**Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery**|Patrick Geitner et.al.|[2404.10003](http://arxiv.org/abs/2404.10003)|null|
