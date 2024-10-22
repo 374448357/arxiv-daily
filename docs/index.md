@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -6685,7 +6685,7 @@ layout: default
 |**2023-12-15**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410](http://arxiv.org/abs/2302.11410)|**[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)**|
 |**2023-02-17**|**Generative Ornstein-Uhlenbeck Markets via Geometric Deep Learning**|Anastasis Kratsios et.al.|[2302.09176](http://arxiv.org/abs/2302.09176)|null|
 |**2023-02-23**|**Slepian Scale-Discretised Wavelets on Manifolds**|Patrick J. Roddy et.al.|[2302.06006](http://arxiv.org/abs/2302.06006)|null|
-|**2023-10-31**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743](http://arxiv.org/abs/2302.05743)|null|
+|**2024-10-19**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743](http://arxiv.org/abs/2302.05743)|null|
 |**2023-02-09**|**Constrained Empirical Risk Minimization: Theory and Practice**|Eric Marcus et.al.|[2302.04729](http://arxiv.org/abs/2302.04729)|null|
 |**2023-02-06**|**Root Laplacian Eigenmaps with their application in spectral embedding**|Shouvik Datta Choudhury et.al.|[2302.02731](http://arxiv.org/abs/2302.02731)|null|
 |**2023-04-24**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259](http://arxiv.org/abs/2302.01259)|null|
