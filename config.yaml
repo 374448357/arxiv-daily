@@ -38,4 +38,6 @@ keywords:
         filters: ["protein ligand bind", "docking", "binding", "protein ligand interaction", "Binding affinity", "Binding affinity prediction"]
     "Geometric deep learning":
         filters: ["Equivariant", "Geometric deep learning", "Invariant"]
+    "Aptamer":
+        filters: ["Aptamer"]
     
