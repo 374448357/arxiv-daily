@@ -7656,6 +7656,54 @@ layout: default
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
+## Aptamer
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Character-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models**|Adrián Morales-Pastor et.al.|[2411.11808](http://arxiv.org/abs/2411.11808)|null|
+|**2024-11-03**|**Protein-Nucleic Acid Complex Modeling with Frame Averaging Transformer**|Tinglin Huang et.al.|[2406.09586](http://arxiv.org/abs/2406.09586)|**[link](https://github.com/Graph-and-Geometric-Learning/Frame-Averaging-Transformer)**|
+|**2024-08-28**|**Modular DNA origami-based electrochemical detection of DNA and proteins**|Byoung-jin Jeon et.al.|[2312.06554](http://arxiv.org/abs/2312.06554)|null|
+|**2024-04-09**|**Direct electrochemical reduction of graphene oxide thin film for aptamer-based selective and highly sensitive detection of Matrix metalloproteinase 2**|Stefan Jaric et.al.|[2311.04674](http://arxiv.org/abs/2311.04674)|null|
+|**2023-11-15**|**Theoretical Analysis of Divalent Cation Effects on Aptamer Recognition of Neurotransmitter Targets**|Douaki Ali et.al.|[2308.13396](http://arxiv.org/abs/2308.13396)|null|
+|**2023-11-03**|**Femtomolar detection of the heart failure biomarker NT-proBNP in artificial saliva using an immersible liquid-gated aptasensor with reduced graphene oxide**|Stefan Jaric et.al.|[2307.16692](http://arxiv.org/abs/2307.16692)|null|
+|**2023-04-11**|**Do conformational changes contribute to the surface plasmon resonance signal?**|Daniel Dobrovodský et.al.|[2304.05063](http://arxiv.org/abs/2304.05063)|null|
+|**2023-03-17**|**Bioinspired Materials for Sensor and Clinical Applications: Two Case Studies**|Eleonora Alfinito et.al.|[2303.09929](http://arxiv.org/abs/2303.09929)|null|
+|**2024-08-22**|**Hairygami: Analysis of DNA Nanostructures' Conformational Change Driven by Functionalizable Overhangs**|Matthew Sample et.al.|[2302.09109](http://arxiv.org/abs/2302.09109)|null|
+|**2022-12-30**|**Dual-aptamer Drift Cancelling Techniques to Improve Long-term Stability of Real-Time Structure-Switching Aptasensors**|Ya-Chen Tsai et.al.|[2212.14491](http://arxiv.org/abs/2212.14491)|null|
+|**2022-08-10**|**Diversifying Design of Nucleic Acid Aptamers Using Unsupervised Machine Learning**|Siba Moussa et.al.|[2208.05341](http://arxiv.org/abs/2208.05341)|null|
+|**2022-07-27**|**Statistical-physics approaches to RNA molecules, families and networks**|Simona Cocco et.al.|[2207.13402](http://arxiv.org/abs/2207.13402)|null|
+|**2021-04-30**|**Dynamic Plasmonic System That Responds to Thermal and Aptamer-Target Regulations**|Chao Zhou et.al.|[2105.02042](http://arxiv.org/abs/2105.02042)|null|
+|**2021-12-15**|**Real-time detection of Ochratoxin A in wine through insight of aptamer conformation in conjunction with graphene field-effect transistor**|Nikita Nekrasov et.al.|[2104.10551](http://arxiv.org/abs/2104.10551)|null|
+|**2021-02-28**|**Emerging Technologies for Cancer Research: Towards Personalized Medicine with Microfluidic Platforms and 3D Tumor Models**|Matteo Turetta et.al.|[2103.01221](http://arxiv.org/abs/2103.01221)|null|
+|**2020-09-01**|**Detection of Aflatoxin M1 by Fiber Cavity Attenuated Phase Shift Spectroscopy**|M. Daniyal Ghauri et.al.|[2010.02082](http://arxiv.org/abs/2010.02082)|null|
+|**2020-05-07**|**Design and Analysis of a Sample-and-Hold CMOS Electrochemical Sensor for Aptamer-based Therapeutic Drug Monitoring**|Jun-Chau Chien et.al.|[2005.03479](http://arxiv.org/abs/2005.03479)|null|
+|**2020-03-21**|**Single-core Or Multi-core? A Mini Review on Magnetic Nanoparticles for Magnetic Particle Spectroscopy-based Bioassays**|Kai Wu et.al.|[2003.09578](http://arxiv.org/abs/2003.09578)|null|
+|**2020-02-26**|**Bioconjugated oligonucleotides: recent developments and thera-eutic applications**|Sébastien Benizri et.al.|[2002.11532](http://arxiv.org/abs/2002.11532)|null|
+|**2019-05-15**|**MnO2-gated Nanoplatforms with Targeted Controlled Drug Release and Contrast-Enhanced MRI Properties: from 2D Cell Culture to 3D Biomimetic Hydrogels**|Yupeng Shi et.al.|[1910.13512](http://arxiv.org/abs/1910.13512)|null|
+|**2019-04-26**|**Versatile Graphene-Based Platform for Robust Nanobiohybrid Interfaces**|Rebeca Bueno et.al.|[1904.11806](http://arxiv.org/abs/1904.11806)|null|
+|**2018-07-19**|**New indicators for assessing the quality of in silico produced biomolecules: the case study of the aptamer-Angiopoietin-2 complex**|Rosella Cataldo et.al.|[1807.07309](http://arxiv.org/abs/1807.07309)|null|
+|**2017-12-12**|**Scalable Graphene Aptasensors for Drug Quantification**|Ramya Vishnubhotla et.al.|[1712.04525](http://arxiv.org/abs/1712.04525)|null|
+|**2018-05-21**|**A validation strategy for in silico generated aptamers**|R. Cataldo et.al.|[1711.07397](http://arxiv.org/abs/1711.07397)|null|
+|**2017-08-29**|**An aptamer-biosensor for azole class antifungal drugs**|Gregory R Wiedman et.al.|[1708.08974](http://arxiv.org/abs/1708.08974)|null|
+|**2017-06-26**|**Hierarchy and assortativity as new tools for affinity investigation: the case of the TBA aptamer-ligand complex**|R. Cataldo et.al.|[1706.08324](http://arxiv.org/abs/1706.08324)|null|
+|**2016-12-28**|**Controlling uncertainty in aptamer selection**|Fabian Spill et.al.|[1612.08995](http://arxiv.org/abs/1612.08995)|null|
+|**2016-11-29**|**Tip-enhanced Raman spectroscopic detection of aptamers**|Siyu He et.al.|[1611.09544](http://arxiv.org/abs/1611.09544)|null|
+|**2016-07-12**|**Modeling the microscopic electrical properties of thrombin binding aptamer (TBA) for label-free biosensors**|Eleonora Alfinito et.al.|[1608.01269](http://arxiv.org/abs/1608.01269)|null|
+|**2016-04-05**|**AptaTRACE: Elucidating Sequence-Structure Binding Motifs by Uncovering Selection Trends in HT-SELEX Experiments**|Phuong Dao et.al.|[1604.03081](http://arxiv.org/abs/1604.03081)|null|
+|**2015-10-31**|**Rupture of DNA Aptamer: new insights from simulations**|Rakesh Kumar Mishra et.al.|[1511.00127](http://arxiv.org/abs/1511.00127)|null|
+|**2014-10-02**|**Using Simulations and kinetic network models to reveal the dynamics and functions of Riboswitches**|Jong-Chin Lin et.al.|[1410.0652](http://arxiv.org/abs/1410.0652)|null|
+|**2014-09-17**|**Rapid and accurate detection of Cyanobacterial toxin microcystin-LR using fiber-optic long-period grating based immunosensor**|Saurabh Mani Tripathi et.al.|[1409.4931](http://arxiv.org/abs/1409.4931)|null|
+|**2014-04-24**|**Dynamical Transition and Heterogeneous Hydration Dynamics in RNA**|Jeseong Yoon et.al.|[1404.6164](http://arxiv.org/abs/1404.6164)|null|
+|**2013-11-30**|**Sequence-dependent folding landscapes of adenine riboswitch aptamers**|Jong-Chin Lin et.al.|[1312.0075](http://arxiv.org/abs/1312.0075)|null|
+|**2013-09-23**|**Ligand-induced stabilization of the aptamer terminal helix in the add adenine riboswitch**|Francesco Di Palma et.al.|[1309.5717](http://arxiv.org/abs/1309.5717)|null|
+|**2013-09-18**|**A Realistic Model under which the Genetic Code is Optimal**|Harry Buhrman et.al.|[1309.4589](http://arxiv.org/abs/1309.4589)|null|
+|**2013-06-01**|**Statistical Methods for Estimating Complexity from Competition Experiments between Two Populations**|Stephen Montgomery-Smith et.al.|[1306.0069](http://arxiv.org/abs/1306.0069)|null|
+|**2012-10-25**|**Gene Regulation by Riboswitches with and without Negative Feedback Loop**|Jong-Chin Lin et.al.|[1210.6998](http://arxiv.org/abs/1210.6998)|null|
+|**2012-08-22**|**Aptamer-based Impedimetric Sensor for Bacterial Typing**|Mahmoud Labib et.al.|[1208.0613](http://arxiv.org/abs/1208.0613)|null|
+|**2011-10-04**|**Automated RNA structure prediction uncovers a missing link in double glycine riboswitches**|Wipapat Kladwang et.al.|[1110.0800](http://arxiv.org/abs/1110.0800)|null|
+|**2007-11-05**|**Three phases in the evolution of the standard genetic code: how translation could get started**|Peter van der Gulik et.al.|[0711.0700](http://arxiv.org/abs/0711.0700)|null|
+|**2007-08-06**|**Calculation of absolute free energy of binding for theophylline and its analogs to RNA aptamer using nonequilibrium work values**|Yoshiaki Tanida et.al.|[0708.0698](http://arxiv.org/abs/0708.0698)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
