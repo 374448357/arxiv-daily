@@ -40,4 +40,5 @@ keywords:
         filters: ["Equivariant", "Geometric deep learning", "Invariant"]
     "Aptamer":
         filters: ["Aptamer"]
-    
+    "RNA":
+        filters: ["rna", "binding", "deep learning"]
