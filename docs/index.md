@@ -7391,7 +7391,7 @@ layout: default
 |**2024-09-30**|**Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design**|Shengchao Liu et.al.|[2409.10584](http://arxiv.org/abs/2409.10584)|null|
 |**2024-09-16**|**Uncovering the Mechanism of Hepatotoxiciy of PFAS Targeting L-FABP Using GCN and Computational Modeling**|Lucas Jividen et.al.|[2409.10370](http://arxiv.org/abs/2409.10370)|**[link](https://github.com/LabJunBMI/GCN-PFAS-Docking-Score-Prediction)**|
 |**2024-09-12**|**De novo design of high-affinity protein binders with AlphaProteo**|Vinicius Zambaldi et.al.|[2409.08022](http://arxiv.org/abs/2409.08022)|null|
-|**2024-08-27**|**S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search**|Gengmo Zhou et.al.|[2409.07462](http://arxiv.org/abs/2409.07462)|null|
+|**2024-11-21**|**S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search**|Gengmo Zhou et.al.|[2409.07462](http://arxiv.org/abs/2409.07462)|null|
 |**2024-09-07**|**CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction**|Shrimon Mukherjee et.al.|[2409.04737](http://arxiv.org/abs/2409.04737)|null|
 |**2024-08-21**|**CoPRA: Bridging Cross-domain Pretrained Sequence Models with Complex Structures for Protein-RNA Binding Affinity Prediction**|Rong Han et.al.|[2409.03773](http://arxiv.org/abs/2409.03773)|null|
 |**2024-08-29**|**Universal mechanistic rules for de novo design of enzymes**|Michalis Chatzittofi et.al.|[2408.16639](http://arxiv.org/abs/2408.16639)|null|
