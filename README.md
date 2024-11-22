@@ -18,7 +18,6 @@
     <li><a href=#binding>Binding</a></li>
     <li><a href=#geometric-deep-learning>Geometric deep learning</a></li>
     <li><a href=#aptamer>Aptamer</a></li>
-    <li><a href=#rna>RNA</a></li>
   </ol>
 </details>
 
