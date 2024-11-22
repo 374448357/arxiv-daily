@@ -7736,6 +7736,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2007-06-08**|**microRNAs may sharpen spatial expression patterns**|Erel Levine et.al.|[q-bio/0702046](http://arxiv.org/abs/q-bio/0702046)|null|
+|**2005-02-05**|**An RNA-centered view of eukaryotic cells**|Emmanuel Tannenbaum et.al.|[q-bio/0412027](http://arxiv.org/abs/q-bio/0412027)|null|
+|**2002-02-21**|**Translocation Properties of Primitive Molecular Machines and Their Relevance to the Structure of the Genetic Code**|Maximino Aldana et.al.|[physics/0202056](http://arxiv.org/abs/physics/0202056)|null|
 |**2024-11-20**|**Comparative Analysis of Machine Learning and Deep Learning Models for Classifying Squamous Epithelial Cells of the Cervix**|Subhasish Das et.al.|[2411.13535](http://arxiv.org/abs/2411.13535)|null|
 |**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
 |**2024-11-20**|**Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding**|Hoang-Quan Nguyen et.al.|[2411.13378](http://arxiv.org/abs/2411.13378)|null|
@@ -7836,6 +7839,69 @@ layout: default
 |**2024-11-17**|**AppSign: Multi-level Approximate Computing for Real-Time Traffic Sign Recognition in Autonomous Vehicles**|Fatemeh Omidian et.al.|[2411.10988](http://arxiv.org/abs/2411.10988)|null|
 |**2024-11-17**|**A Monocular SLAM-based Multi-User Positioning System with Image Occlusion in Augmented Reality**|Wei-Hsiang Lien et.al.|[2411.10940](http://arxiv.org/abs/2411.10940)|null|
 |**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
+|**2024-10-10**|**Near-ideal selection for the Standard Genetic Code**|Michael Yarus et.al.|[2410.07814](http://arxiv.org/abs/2410.07814)|null|
+|**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-10-02**|**Latent Diffusion Models for Controllable RNA Sequence Generation**|Kaixuan Huang et.al.|[2409.09828](http://arxiv.org/abs/2409.09828)|null|
+|**2024-07-29**|**RNACG: A Universal RNA Sequence Conditional Generation model based on Flow-Matching**|Letian Gao et.al.|[2407.19838](http://arxiv.org/abs/2407.19838)|null|
+|**2024-09-18**|**OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models**|Heng Yang et.al.|[2407.11242](http://arxiv.org/abs/2407.11242)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-05-29**|**UniIF: Unified Molecule Inverse Folding**|Zhangyang Gao et.al.|[2405.18968](http://arxiv.org/abs/2405.18968)|null|
+|**2024-06-09**|**RNAFlow: RNA Structure & Sequence Design via Inverse Folding-Based Flow Matching**|Divya Nori et.al.|[2405.18768](http://arxiv.org/abs/2405.18768)|**[link](https://github.com/divnori/rnaflow)**|
+|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|**[link](https://github.com/ml4bio/ribodiffusion)**|
+|**2024-11-01**|**Scalable and Interpretable Identification of Minimal Undesignable RNA Structure Motifs with Rotational Invariance**|Tianshuo Zhou et.al.|[2402.17206](http://arxiv.org/abs/2402.17206)|**[link](https://github.com/shanry/rna-undesign)**|
+|**2024-05-03**|**3D-based RNA function prediction tools in rnaglib**|Carlos Oliver et.al.|[2402.09330](http://arxiv.org/abs/2402.09330)|**[link](https://github.com/cgoliver/rnaglib)**|
+|**2023-12-04**|**Rethinking Performance Measures of RNA Secondary Structure Problems**|Frederic Runge et.al.|[2401.05351](http://arxiv.org/abs/2401.05351)|null|
+|**2024-03-01**|**Messenger RNA Design via Expected Partition Function and Continuous Optimization**|Ning Dai et.al.|[2401.00037](http://arxiv.org/abs/2401.00037)|**[link](https://github.com/kunyaa/rna_design_codebase)**|
+|**2024-03-29**|**Predicting the morphology of multiphase biomolecular condensates from protein interaction networks**|Tianhao Li et.al.|[2312.02806](http://arxiv.org/abs/2312.02806)|null|
+|**2024-08-10**|**Undesignable RNA Structure Identification via Rival Structure Generation and Structure Decomposition**|Tianshuo Zhou et.al.|[2311.08339](http://arxiv.org/abs/2311.08339)|**[link](https://github.com/shanry/rna-undesign)**|
+|**2023-09-20**|**Biological insights from RIL-seq in bacteria**|Aviezer Silverman et.al.|[2309.11399](http://arxiv.org/abs/2309.11399)|null|
+|**2024-10-06**|**gRNAde: Geometric Deep Learning for 3D RNA inverse design**|Chaitanya K. Joshi et.al.|[2305.14749](http://arxiv.org/abs/2305.14749)|**[link](https://github.com/chaitjo/geometric-rna-design)**|
+|**2023-04-10**|**Robust Neural Architecture Search**|Xunyu Zhu et.al.|[2304.02845](http://arxiv.org/abs/2304.02845)|null|
+|**2024-03-07**|**RDesign: Hierarchical Data-efficient Representation Learning for Tertiary Structure-based RNA Design**|Cheng Tan et.al.|[2301.10774](http://arxiv.org/abs/2301.10774)|**[link](https://github.com/A4Bio/RDesign)**|
+|**2022-10-26**|**LinearCoFold and LinearCoPartition: Linear-Time Algorithms for Secondary Structure Prediction of Interacting RNA molecules**|He Zhang et.al.|[2210.14982](http://arxiv.org/abs/2210.14982)|null|
+|**2022-06-02**|**Automated Reinforcement Learning (AutoRL): A Survey and Open Problems**|Jack Parker-Holder et.al.|[2201.03916](http://arxiv.org/abs/2201.03916)|null|
+|**2022-04-22**|**Deep learning models for predicting RNA degradation via dual crowdsourcing**|Hannah K. Wayment-Steele et.al.|[2110.07531](http://arxiv.org/abs/2110.07531)|**[link](https://github.com/eternagame/KaggleOpenVaccine)**|
+|**2021-10-11**|**CARL: A Benchmark for Contextual and Adaptive Reinforcement Learning**|Carolin Benjamins et.al.|[2110.02102](http://arxiv.org/abs/2110.02102)|**[link](https://github.com/automl/CARL)**|
+|**2021-09-07**|**Graph-Theoretic Partitioning of RNAs and Classification of Pseudoknots-II**|Louis Petingi et.al.|[2109.03236](http://arxiv.org/abs/2109.03236)|null|
+|**2021-11-23**|**Protein-RNA interaction prediction with deep learning: Structure matters**|Junkang Wei et.al.|[2107.12243](http://arxiv.org/abs/2107.12243)|null|
+|**2021-05-03**|**A rotary plasmonic nanoclock**|Ling Xin et.al.|[2105.04366](http://arxiv.org/abs/2105.04366)|null|
+|**2020-09-02**|**$αβ$ DCA method identifies unspecific binding but specific disruption of the group I intron by the StpA chaperone**|Vladimir Reinharz et.al.|[1911.03046](http://arxiv.org/abs/1911.03046)|null|
+|**2019-10-21**|**Competing endogenous RNA crosstalk at system level**|Mattia Miotto et.al.|[1910.09256](http://arxiv.org/abs/1910.09256)|null|
+|**2020-12-08**|**Network Representation of Large-Scale Heterogeneous RNA Sequences with Integration of Diverse Multi-omics, Interactions, and Annotations Data**|Nhat Tran et.al.|[1906.07289](http://arxiv.org/abs/1906.07289)|null|
+|**2020-08-07**|**BPPart and BPMax: RNA-RNA Interaction Partition Function and Structure Prediction for the Base Pair Counting Model**|Ali Ebrahimpour-Boroojeny et.al.|[1904.01235](http://arxiv.org/abs/1904.01235)|**[link](https://github.com/Ali-E/bipart)**|
+|**2019-04-12**|**Learning to Design RNA**|Frederic Runge et.al.|[1812.11951](http://arxiv.org/abs/1812.11951)|**[link](https://github.com/automl/learna)**|
+|**2018-12-22**|**Kinetic modelling of competition and depletion of shared miRNAs by competing endogenous RNAs**|Araks Martirosyan et.al.|[1812.09538](http://arxiv.org/abs/1812.09538)|null|
+|**2018-04-03**|**Fixed-Parameter Tractable Sampling for RNA Design with Multiple Target Structures**|Stefan Hammer et.al.|[1804.00841](http://arxiv.org/abs/1804.00841)|**[link](https://github.com/yannponty/RNARedPrint)**|
+|**2019-03-06**|**SentRNA: Improving computational RNA design by incorporating a prior of human design strategies**|Jade Shi et.al.|[1803.03146](http://arxiv.org/abs/1803.03146)|null|
+|**2017-12-06**|**Attention based convolutional neural network for predicting RNA-protein binding sites**|Xiaoyong Pan et.al.|[1712.02270](http://arxiv.org/abs/1712.02270)|null|
+|**2017-12-06**|**A nucleobase-centered coarse-grained representation for structure prediction of RNA motifs**|Simón Poblete et.al.|[1711.00741](http://arxiv.org/abs/1711.00741)|null|
+|**2018-03-25**|**Designing RNA Secondary Structures is Hard**|Édouard Bonnet et.al.|[1710.11513](http://arxiv.org/abs/1710.11513)|null|
+|**2020-05-08**|**An infinite class of unsaturated rooted trees corresponding to designable RNA secondary structures**|Jonathan Jedwab et.al.|[1709.08088](http://arxiv.org/abs/1709.08088)|null|
+|**2018-01-02**|**Exploring RNA structure and dynamics through enhanced sampling simulations**|Vojtěch Mlýnský et.al.|[1709.02342](http://arxiv.org/abs/1709.02342)|null|
+|**2016-11-04**|**RBPBind: Quantitative prediction of Protein-RNA Interactions**|Jeff Gaither et.al.|[1611.01245](http://arxiv.org/abs/1611.01245)|null|
+|**2016-06-21**|**Salt Effects on the Thermodynamics of a Frameshifting RNA Pseudoknot under Tension**|Naoto Hori et.al.|[1604.08278](http://arxiv.org/abs/1604.08278)|null|
+|**2016-08-04**|**Combinatorial RNA Design Designability and Structure-Approximating Algorithm in Watson-Crick and Nussinov-Jacobson Energy Models**|Jozef Haleš et.al.|[1603.03577](http://arxiv.org/abs/1603.03577)|null|
+|**2016-01-17**|**Partitioning RNAs into pseudonotted and pseudoknot-free regions modeled as Dual Graphs**|Louis Petingi et.al.|[1601.04259](http://arxiv.org/abs/1601.04259)|null|
+|**2015-04-07**|**Probabilistic modeling of occurring substitutions in PAR-CLIP data**|Monica Golumbeanu et.al.|[1504.01619](http://arxiv.org/abs/1504.01619)|null|
+|**2015-02-17**|**The role of packaging sites in efficient and specific virus assembly**|J. D. Perlmutter et.al.|[1502.05029](http://arxiv.org/abs/1502.05029)|null|
+|**2015-06-19**|**Combinatorial RNA Design: Designability and Structure-Approximating Algorithm**|Jozef Haleš et.al.|[1502.03201](http://arxiv.org/abs/1502.03201)|null|
+|**2014-04-12**|**Uniform generation of RNA-RNA interaction structures of fixed topological genus**|Benjamin Mingming Fu et.al.|[1311.0684](http://arxiv.org/abs/1311.0684)|null|
+|**2013-11-04**|**On the genus filtration of diagrams over two backbones**|Benjamin Mingming Fu et.al.|[1311.0682](http://arxiv.org/abs/1311.0682)|null|
+|**2013-09-18**|**A Realistic Model under which the Genetic Code is Optimal**|Harry Buhrman et.al.|[1309.4589](http://arxiv.org/abs/1309.4589)|null|
+|**2013-08-01**|**Flexible RNA design under structure and sequence constraints using formal languages**|Yu Zhou et.al.|[1305.3830](http://arxiv.org/abs/1305.3830)|null|
+|**2013-05-21**|**HiTRACE-Web: an online tool for robust analysis of high-throughput capillary electrophoresis**|Hanjoo Kim et.al.|[1305.3507](http://arxiv.org/abs/1305.3507)|null|
+|**2013-04-15**|**Entropic stabilization of the folded states of RNA due to macromolecular crowding**|Natalia A. Denesyuk et.al.|[1304.4274](http://arxiv.org/abs/1304.4274)|null|
+|**2013-01-30**|**A bijection between unicellular and bicellular maps**|Hillary S. W. Han et.al.|[1301.7177](http://arxiv.org/abs/1301.7177)|null|
+|**2013-01-08**|**The RNA Newton Polytope and Learnability of Energy Parameters**|Elmirasadat Forouzmand et.al.|[1301.1608](http://arxiv.org/abs/1301.1608)|null|
+|**2013-01-08**|**An Efficient Algorithm for Upper Bound on the Partition Function of Nucleic Acids**|Hamidreza Chitsaz et.al.|[1301.1590](http://arxiv.org/abs/1301.1590)|null|
+|**2013-02-25**|**The Lipid-RNA World**|Saurav Mallik et.al.|[1211.0413](http://arxiv.org/abs/1211.0413)|null|
+|**2011-12-28**|**Topology of RNA-RNA interaction structures**|Jørgen E. Andersen et.al.|[1112.6194](http://arxiv.org/abs/1112.6194)|null|
+|**2010-06-21**|**Combinatorial analysis of interacting RNA molecules**|Thomas J. X. Li et.al.|[1006.4089](http://arxiv.org/abs/1006.4089)|null|
+|**2010-06-15**|**Combinatorics of RNA-RNA interaction**|Thomas J. X. Li et.al.|[1006.2924](http://arxiv.org/abs/1006.2924)|null|
+|**2010-07-14**|**RNA-RNA interaction prediction based on multiple sequence alignments**|Andrew X. Li et.al.|[1003.3987](http://arxiv.org/abs/1003.3987)|null|
+|**2010-02-08**|**Prediction of RNA-RNA interaction structure by centroids in the Boltzmann ensemble**|Hamidreza Chitsaz et.al.|[1002.1736](http://arxiv.org/abs/1002.1736)|null|
+|**2009-12-07**|**Urea destabilizes RNA by forming stacking interactions and multiple hydrogen bonds with nucleic acid bases**|U. Deva Priyakumar et.al.|[0912.1175](http://arxiv.org/abs/0912.1175)|null|
+|**2009-08-05**|**Target prediction and a statistical sampling algorithm for RNA-RNA interaction**|F. W. D. Huang et.al.|[0908.0597](http://arxiv.org/abs/0908.0597)|null|
+|**2009-03-19**|**RNA-RNA interaction prediction: partition function and base pair pairing probabilities**|Fenix W. D. Huang et.al.|[0903.3283](http://arxiv.org/abs/0903.3283)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
