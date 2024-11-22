@@ -41,4 +41,4 @@ keywords:
     "Aptamer":
         filters: ["Aptamer"]
     "RNA":
-        filters: ["rna", "binding", "deep learning"]
+        filters: ["rna", "binding", "rna design", "rna Generation", "rna Interactions"]
