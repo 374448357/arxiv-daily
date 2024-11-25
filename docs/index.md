@@ -1274,7 +1274,7 @@ layout: default
 |**2024-11-16**|**Underwater Image Enhancement with Cascaded Contrastive Learning**|Yi Liu et.al.|[2411.10682](http://arxiv.org/abs/2411.10682)|**[link](https://github.com/lewis081/ccl-net)**|
 |**2024-11-16**|**Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability,Throughput, and Latency**|Mostafa Naseri et.al.|[2411.10650](http://arxiv.org/abs/2411.10650)|null|
 |**2024-11-15**|**Is thermography a viable solution for detecting pressure injuries in dark skin patients?**|Miriam Asare-Baiden et.al.|[2411.10627](http://arxiv.org/abs/2411.10627)|null|
-|**2024-11-15**|**D-Flow: Multi-modality Flow Matching for D-peptide Design**|Fang Wu et.al.|[2411.10618](http://arxiv.org/abs/2411.10618)|null|
+|**2024-11-15**|**D-Flow: Multi-modality Flow Matching for D-peptide Design**|Fang Wu et.al.|[2411.10618](http://arxiv.org/abs/2411.10618)|**[link](https://github.com/smiles724/peptidedesign)**|
 |**2024-11-20**|**Debias-CLR: A Contrastive Learning Based Debiasing Method for Algorithmic Fairness in Healthcare Applications**|Ankita Agarwal et.al.|[2411.10544](http://arxiv.org/abs/2411.10544)|null|
 |**2024-11-15**|**RedTest: Towards Measuring Redundancy in Deep Neural Networks Effectively**|Yao Lu et.al.|[2411.10507](http://arxiv.org/abs/2411.10507)|null|
 |**2024-11-15**|**Deep Learning for Micro-Scale Crack Detection on Imbalanced Datasets Using Key Point Localization**|Fatahlla Moreh et.al.|[2411.10389](http://arxiv.org/abs/2411.10389)|null|
@@ -1397,7 +1397,7 @@ layout: default
 |**2024-11-11**|**Learning Collective Dynamics of Multi-Agent Systems using Event-based Vision**|Minah Lee et.al.|[2411.07039](http://arxiv.org/abs/2411.07039)|null|
 |**2024-11-11**|**Leveraging LSTM for Predictive Modeling of Satellite Clock Bias**|Ahan Bhatt et.al.|[2411.07015](http://arxiv.org/abs/2411.07015)|null|
 |**2024-11-11**|**Permutative redundancy and uncertainty of the objective in deep learning**|Vacslav Glukhov et.al.|[2411.07008](http://arxiv.org/abs/2411.07008)|null|
-|**2024-11-11**|**A Hyperspectral Imaging Dataset and Methodology for Intraoperative Pixel-Wise Classification of Metastatic Colon Cancer in the Liver**|Ivica Kopriva et.al.|[2411.06969](http://arxiv.org/abs/2411.06969)|null|
+|**2024-11-11**|**A Hyperspectral Imaging Dataset and Methodology for Intraoperative Pixel-Wise Classification of Metastatic Colon Cancer in the Liver**|Ivica Kopriva et.al.|[2411.06969](http://arxiv.org/abs/2411.06969)|**[link](https://github.com/ikopriva/coloncancerhsi)**|
 |**2024-11-11**|**DeepCRF: Deep Learning-Enhanced CSI-Based RF Fingerprinting for Channel-Resilient WiFi Device Identification**|Ruiqi Kong et.al.|[2411.06925](http://arxiv.org/abs/2411.06925)|**[link](https://github.com/Oriseven/DeepCRF_TIFS)**|
 |**2024-11-12**|**Gaussian Process Emulators for Few-Shot Segmentation in Cardiac MRI**|Bruno Viti et.al.|[2411.06911](http://arxiv.org/abs/2411.06911)|**[link](https://gitlab.com/bruno_viti/gpe_4_cardiac_fss)**|
 |**2024-11-11**|**Classification of residential and non-residential buildings based on satellite data using deep learning**|Jai G Singla et.al.|[2411.06879](http://arxiv.org/abs/2411.06879)|null|
@@ -1667,7 +1667,7 @@ layout: default
 |**2024-10-31**|**Space for Improvement: Navigating the Design Space for Federated Learning in Satellite Constellations**|Grace Kim et.al.|[2411.00263](http://arxiv.org/abs/2411.00263)|null|
 |**2024-10-31**|**Enhancing Diversity in Bayesian Deep Learning via Hyperspherical Energy Minimization of CKA**|David Smerkous et.al.|[2411.00259](http://arxiv.org/abs/2411.00259)|**[link](https://github.com/Deep-Machine-Vision/he-cka-ensembles)**|
 |**2024-10-31**|**A Novel Breast Ultrasound Image Augmentation Method Using Advanced Neural Style Transfer: An Efficient and Explainable Approach**|Lipismita Panigrahi et.al.|[2411.00254](http://arxiv.org/abs/2411.00254)|null|
-|**2024-10-31**|**Deep Learning Through A Telescoping Lens: A Simple Model Provides Empirical Insights On Grokking, Gradient Boosting & Beyond**|Alan Jeffares et.al.|[2411.00247](http://arxiv.org/abs/2411.00247)|null|
+|**2024-10-31**|**Deep Learning Through A Telescoping Lens: A Simple Model Provides Empirical Insights On Grokking, Gradient Boosting & Beyond**|Alan Jeffares et.al.|[2411.00247](http://arxiv.org/abs/2411.00247)|**[link](https://github.com/alanjeffares/telescoping-lens)**|
 |**2024-10-31**|**Protecting Feed-Forward Networks from Adversarial Attacks Using Predictive Coding**|Ehsan Ganjidoost et.al.|[2411.00222](http://arxiv.org/abs/2411.00222)|null|
 |**2024-10-31**|**Angular Distance Distribution Loss for Audio Classification**|Antonio Almudévar et.al.|[2411.00153](http://arxiv.org/abs/2411.00153)|null|
 |**2024-10-31**|**NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs**|Nursena Köprücü et.al.|[2411.00151](http://arxiv.org/abs/2411.00151)|null|
@@ -1711,7 +1711,7 @@ layout: default
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
 |**2024-10-30**|**Nested ResNet: A Vision-Based Method for Detecting the Sensing Area of a Drop-in Gamma Probe**|Songyu Xu et.al.|[2410.23154](http://arxiv.org/abs/2410.23154)|null|
 |**2024-10-31**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109](http://arxiv.org/abs/2410.23109)|null|
-|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
+|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|**[link](https://github.com/tawald/semantic_rsm)**|
 |**2024-10-30**|**AI-assisted prostate cancer detection and localisation on biparametric MR by classifying radiologist-positives**|Xiangcen Wu et.al.|[2410.23084](http://arxiv.org/abs/2410.23084)|null|
 |**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-30**|**Legitimate ground-truth-free metrics for deep uncertainty classification scoring**|Arthur Pignet et.al.|[2410.23046](http://arxiv.org/abs/2410.23046)|null|
@@ -7787,7 +7787,7 @@ layout: default
 |**2024-11-20**|**Solver-in-the-loop approach to turbulence closure**|André Freitas et.al.|[2411.13194](http://arxiv.org/abs/2411.13194)|null|
 |**2024-11-20**|**A Unified Analysis for Finite Weight Averaging**|Peng Wang et.al.|[2411.13169](http://arxiv.org/abs/2411.13169)|null|
 |**2024-11-20**|**Cyborg Insect Factory: Automatic Assembly System to Build up Insect-computer Hybrid Robot Based on Vision-guided Robotic Arm Manipulation of Custom Bipolar Electrodes**|Qifeng Lin et.al.|[2411.13164](http://arxiv.org/abs/2411.13164)|null|
-|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|**[link](https://github.com/SonyResearch/RAW-Diffusion)**|
 |**2024-11-20**|**SAGA: Synthetic Audit Log Generation for APT Campaigns**|Yi-Ting Huang et.al.|[2411.13138](http://arxiv.org/abs/2411.13138)|null|
 |**2024-11-20**|**Quark Model Study of Doubly Heavy $Ξ$ and $Ω$ Baryons via Deep Neural Network and Hybrid Optimization**|Zahra Ghalenovi et.al.|[2411.13091](http://arxiv.org/abs/2411.13091)|null|
 |**2024-11-20**|**Attentive Contextual Attention for Cloud Removal**|Wenli Huang et.al.|[2411.13042](http://arxiv.org/abs/2411.13042)|**[link](https://github.com/huangwenwenlili/aca-crnet)**|
@@ -7795,7 +7795,7 @@ layout: default
 |**2024-11-20**|**Training Physics-Driven Deep Learning Reconstruction without Raw Data Access for Equitable Fast MRI**|Yaşar Utku Alçalar et.al.|[2411.13022](http://arxiv.org/abs/2411.13022)|null|
 |**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed et.al.|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
 |**2024-11-19**|**Enhancing Deep Learning-Driven Multi-Coil MRI Reconstruction via Self-Supervised Denoising**|Asad Aali et.al.|[2411.12919](http://arxiv.org/abs/2411.12919)|**[link](https://github.com/utcsilab/gsure-diffusion-mri)**|
-|**2024-11-19**|**NPGPT: Natural Product-Like Compound Generation with GPT-based Chemical Language Models**|Koh Sakano et.al.|[2411.12886](http://arxiv.org/abs/2411.12886)|null|
+|**2024-11-19**|**NPGPT: Natural Product-Like Compound Generation with GPT-based Chemical Language Models**|Koh Sakano et.al.|[2411.12886](http://arxiv.org/abs/2411.12886)|**[link](https://github.com/ohuelab/npgpt)**|
 |**2024-11-19**|**Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification**|Meryem Altin Karagoz et.al.|[2411.12874](http://arxiv.org/abs/2411.12874)|null|
 |**2024-11-19**|**Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations**|Laura N Montoya et.al.|[2411.12846](http://arxiv.org/abs/2411.12846)|null|
 |**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|
@@ -7828,7 +7828,7 @@ layout: default
 |**2024-11-18**|**TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model**|Weixian Waylon Li et.al.|[2411.12064](http://arxiv.org/abs/2411.12064)|**[link](https://github.com/waylonli/tsprank-kdd2025)**|
 |**2024-11-18**|**Deep Learning-Based Prediction of PET Amyloid Status Using Multi-Contrast MRI**|Donghoon Kim et.al.|[2411.12061](http://arxiv.org/abs/2411.12061)|null|
 |**2024-11-18**|**Scaling Deep Learning Research with Kubernetes on the NRP Nautilus HyperCluster**|J. Alex Hurt et.al.|[2411.12038](http://arxiv.org/abs/2411.12038)|null|
-|**2024-11-18**|**Mining for Protoclusters at $z\sim4$ from Photometric Datasets with Deep Learning**|Yoshihiro Takeda et.al.|[2411.11956](http://arxiv.org/abs/2411.11956)|null|
+|**2024-11-18**|**Mining for Protoclusters at $z\sim4$ from Photometric Datasets with Deep Learning**|Yoshihiro Takeda et.al.|[2411.11956](http://arxiv.org/abs/2411.11956)|**[link](https://github.com/yoshihirotakeda/pcfnet)**|
 |**2024-11-18**|**Variable Rate Neural Compression for Sparse Detector Data**|Yi Huang et.al.|[2411.11942](http://arxiv.org/abs/2411.11942)|**[link](https://github.com/BNL-DAQ-LDRD/NeuralCompression_v3)**|
 |**2024-11-18**|**Introducing Milabench: Benchmarking Accelerators for AI**|Pierre Delaunay et.al.|[2411.11940](http://arxiv.org/abs/2411.11940)|**[link](https://github.com/mila-iqia/milabench)**|
 |**2024-11-18**|**Fair Distillation: Teaching Fairness from Biased Teachers in Medical Imaging**|Milad Masroor et.al.|[2411.11939](http://arxiv.org/abs/2411.11939)|null|
@@ -7839,7 +7839,7 @@ layout: default
 |**2024-11-18**|**KAN/MultKAN with Physics-Informed Spline fitting (KAN-PISF) for ordinary/partial differential equation discovery of nonlinear dynamic systems**|Ashish Pal et.al.|[2411.11801](http://arxiv.org/abs/2411.11801)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799](http://arxiv.org/abs/2411.11799)|**[link](https://github.com/simonzhou86/en_dran)**|
 |**2024-11-18**|**AdaptLIL: A Gaze-Adaptive Visualization for Ontology Mapping**|Nicholas Chow et.al.|[2411.11768](http://arxiv.org/abs/2411.11768)|null|
-|**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
+|**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|**[link](https://github.com/shovito66/fogsense)**|
 |**2024-11-18**|**Artificial Scientific Discovery**|Antonio Norelli et.al.|[2411.11672](http://arxiv.org/abs/2411.11672)|null|
 |**2024-11-18**|**Introducing IHARDS-CNN: A Cutting-Edge Deep Learning Method for Human Activity Recognition Using Wearable Sensors**|Nazanin Sedaghati et.al.|[2411.11658](http://arxiv.org/abs/2411.11658)|null|
 |**2024-11-18**|**SP ${ }^3$ : Superpixel-propagated pseudo-label learning for weakly semi-supervised medical image segmentation**|Shiman Li et.al.|[2411.11636](http://arxiv.org/abs/2411.11636)|null|
@@ -7847,7 +7847,7 @@ layout: default
 |**2024-11-18**|**Transformer networks for Heavy flavor jet tagging**|A. Hammad et.al.|[2411.11519](http://arxiv.org/abs/2411.11519)|null|
 |**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**Look a Group at Once: Multi-Slide Modeling for Survival Prediction**|Xinyang Li et.al.|[2411.11487](http://arxiv.org/abs/2411.11487)|null|
-|**2024-11-20**|**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**|Rosalia Tufano et.al.|[2411.11401](http://arxiv.org/abs/2411.11401)|null|
+|**2024-11-20**|**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**|Rosalia Tufano et.al.|[2411.11401](http://arxiv.org/abs/2411.11401)|**[link](https://github.com/codereviewexperiment/code_review_controlled_experiment)**|
 |**2024-11-18**|**Adapting to Cyber Threats: A Phishing Evolution Network (PEN) Framework for Phishing Generation and Analyzing Evolution Patterns using Large Language Models**|Fengchao Chen et.al.|[2411.11389](http://arxiv.org/abs/2411.11389)|null|
 |**2024-11-18**|**Quantifying Haptic Affection of Car Door through Data-Driven Analysis of Force Profile**|Waseem Hassan et.al.|[2411.11382](http://arxiv.org/abs/2411.11382)|null|
 |**2024-11-18**|**A comprehensive survey of oracle character recognition: challenges, benchmarks, and beyond**|Jing Li et.al.|[2411.11354](http://arxiv.org/abs/2411.11354)|null|
