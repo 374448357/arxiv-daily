@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1208,7 +1208,7 @@ layout: default
 |**2024-12-17**|**Numerical Pruning for Efficient Autoregressive Models**|Xuan Shen et.al.|[2412.12441](http://arxiv.org/abs/2412.12441)|null|
 |**2024-12-17**|**Predicting Workload in Virtual Flight Simulations using EEG Features (Including Post-hoc Analysis in Appendix)**|Bas Verkennis et.al.|[2412.12428](http://arxiv.org/abs/2412.12428)|null|
 |**2024-12-16**|**Representation learning for fast radio burst dynamic spectra**|Dirk Kuiper et.al.|[2412.12394](http://arxiv.org/abs/2412.12394)|null|
-|**2024-12-16**|**Revolutionizing $f(Q)$ Gravity Studies: Observational Cosmology through Deep Learning and Bayesian Analysis**|Lokesh Kumar Sharma et.al.|[2412.12323](http://arxiv.org/abs/2412.12323)|null|
+|**2024-12-18**|**Revolutionizing $f(Q)$ Gravity Studies: Observational Cosmology through Deep Learning and Bayesian Analysis**|Lokesh Kumar Sharma et.al.|[2412.12323](http://arxiv.org/abs/2412.12323)|null|
 |**2024-12-16**|**Deep Learning for Hydroelectric Optimization: Generating Long-Term River Discharge Scenarios with Ensemble Forecasts from Global Circulation Models**|Julio Alberto Silva Dias et.al.|[2412.12234](http://arxiv.org/abs/2412.12234)|null|
 |**2024-12-16**|**Comprehensive Survey on Adversarial Examples in Cybersecurity: Impacts, Challenges, and Mitigation Strategies**|Li Li et.al.|[2412.12217](http://arxiv.org/abs/2412.12217)|null|
 |**2024-12-15**|**Imagined Speech State Classification for Robust Brain-Computer Interface**|Byung-Kwan Ko et.al.|[2412.12215](http://arxiv.org/abs/2412.12215)|null|
