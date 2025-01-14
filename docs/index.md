@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1281,7 +1281,7 @@ layout: default
 |**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|**[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)**|
 |**2025-01-09**|**SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**|Jake H. Lee et.al.|[2501.04916](http://arxiv.org/abs/2501.04916)|**[link](https://github.com/emit-sds/SpecTf)**|
 |**2025-01-09**|**From Mesh Completion to AI Designed Crown**|Golriz Hosseinimanesh et.al.|[2501.04914](http://arxiv.org/abs/2501.04914)|**[link](https://github.com/golriz-code/dmc)**|
-|**2025-01-08**|**LayerMix: Enhanced Data Augmentation through Fractal Integration for Robust Deep Learning**|Hafiz Mughees Ahmad et.al.|[2501.04861](http://arxiv.org/abs/2501.04861)|null|
+|**2025-01-11**|**LayerMix: Enhanced Data Augmentation through Fractal Integration for Robust Deep Learning**|Hafiz Mughees Ahmad et.al.|[2501.04861](http://arxiv.org/abs/2501.04861)|null|
 |**2025-01-08**|**Using Diffusion Models for Reducing Spatiotemporal Errors of Deep Learning Based Urban Microclimate Predictions at Post-Processing Stage**|Sepehrdad Tahmasebi et.al.|[2501.04847](http://arxiv.org/abs/2501.04847)|null|
 |**2025-01-08**|**A Deep Learning-Based Method for Power System Resilience Evaluation**|Xuesong Wang et.al.|[2501.04830](http://arxiv.org/abs/2501.04830)|null|
 |**2025-01-08**|**Probabilistic Skip Connections for Deterministic Uncertainty Quantification in Deep Neural Networks**|Felix Jimenez et.al.|[2501.04816](http://arxiv.org/abs/2501.04816)|null|
