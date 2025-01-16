@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1274,7 +1274,7 @@ layout: default
 |**2025-01-13**|**A4O: All Trigger for One sample**|Duc Anh Vu et.al.|[2501.07192](http://arxiv.org/abs/2501.07192)|null|
 |**2025-01-13**|**Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing**|Laifa Tao et.al.|[2501.07191](http://arxiv.org/abs/2501.07191)|null|
 |**2025-01-13**|**Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction**|Paul Melki et.al.|[2501.07185](http://arxiv.org/abs/2501.07185)|null|
-|**2025-01-13**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
+|**2025-01-15**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
 |**2025-01-13**|**A Federated Deep Learning Framework for Cell-Free RSMA Networks**|S. Ali Mousavi et.al.|[2501.07126](http://arxiv.org/abs/2501.07126)|null|
 |**2025-01-13**|**MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation**|Xiaoxian Yang et.al.|[2501.07120](http://arxiv.org/abs/2501.07120)|null|
 |**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109](http://arxiv.org/abs/2501.07109)|null|
