@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -330,7 +330,7 @@ layout: default
 |**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
 |**2024-11-01**|**Conditional Synthesis of 3D Molecules with Time Correction Sampler**|Hojung Jung et.al.|[2411.00551](http://arxiv.org/abs/2411.00551)|null|
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012](http://arxiv.org/abs/2410.24012)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
-|**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|**[link](https://github.com/TheLuoFengLab/ChemFM)**|
+|**2025-01-23**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|**[link](https://github.com/TheLuoFengLab/ChemFM)**|
 |**2024-10-26**|**SAFE setup for generative molecular design**|Yassir El Mesbahi et.al.|[2410.20232](http://arxiv.org/abs/2410.20232)|null|
 |**2024-10-26**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|
 |**2024-10-21**|**Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge of Large Language Models**|Jieyu Lu et.al.|[2410.18136](http://arxiv.org/abs/2410.18136)|null|
