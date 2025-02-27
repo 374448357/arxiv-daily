@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1364,7 +1364,7 @@ layout: default
 |**2025-02-25**|**Monitoring snow avalanches from SAR data with deep learning**|Filippo Maria Bianchi et.al.|[2502.18157](http://arxiv.org/abs/2502.18157)|null|
 |**2025-02-25**|**SASSHA: Sharpness-aware Adaptive Second-order Optimization with Stable Hessian Approximation**|Dahun Shin et.al.|[2502.18153](http://arxiv.org/abs/2502.18153)|null|
 |**2025-02-25**|**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**|Ryo Takizawa et.al.|[2502.18121](http://arxiv.org/abs/2502.18121)|null|
-|**2025-02-25**|**A Fusion Model for Art Style and Author Recognition Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083](http://arxiv.org/abs/2502.18083)|null|
+|**2025-02-26**|**A Fusion Model for Art Author Identification Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083](http://arxiv.org/abs/2502.18083)|null|
 |**2025-02-25**|**HEROS-GAN: Honed-Energy Regularized and Optimal Supervised GAN for Enhancing Accuracy and Range of Low-Cost Accelerometers**|Yifeng Wang et.al.|[2502.18064](http://arxiv.org/abs/2502.18064)|null|
 |**2025-02-25**|**Patient Trajectory Prediction: Integrating Clinical Notes with Transformers**|Sifal Klioui et.al.|[2502.18009](http://arxiv.org/abs/2502.18009)|**[link](https://github.com/MostHumble/PatientTrajectoryForecasting)**|
 |**2025-02-25**|**GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes**|Michele Fiori et.al.|[2502.17999](http://arxiv.org/abs/2502.17999)|null|
