@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -343,8 +343,8 @@ layout: default
 |**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|null|
 |**2025-03-04**|**Straight-Line Diffusion Model for Efficient 3D Molecular Generation**|Yuyan Ni et.al.|[2503.02918](http://arxiv.org/abs/2503.02918)|null|
 |**2025-03-03**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
-|**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|null|
-|**2025-03-02**|**Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model**|Guanlue Li et.al.|[2503.00975](http://arxiv.org/abs/2503.00975)|null|
+|**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|**[link](https://github.com/ivanniu/inversiongnn)**|
+|**2025-03-02**|**Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model**|Guanlue Li et.al.|[2503.00975](http://arxiv.org/abs/2503.00975)|**[link](https://github.com/guanlueli/AMDiff)**|
 |**2025-02-26**|**A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation**|Anthony M. Smaldone et.al.|[2502.19214](http://arxiv.org/abs/2502.19214)|**[link](https://github.com/anthonysmaldone/quantum-transformer)**|
 |**2025-02-23**|**Auxiliary Discrminator Sequence Generative Adversarial Networks (ADSeqGAN) for Few Sample Molecule Generation**|Haocheng Tang et.al.|[2502.16446](http://arxiv.org/abs/2502.16446)|**[link](https://github.com/clickff/adseqgan)**|
 |**2025-02-19**|**FragFM: Efficient Fragment-Based Molecular Generation via Discrete Flow Matching**|Joongwon Lee et.al.|[2502.15805](http://arxiv.org/abs/2502.15805)|null|
@@ -730,7 +730,7 @@ layout: default
 |**2025-03-04**|**Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation**|Julian Konrad et.al.|[2503.02678](http://arxiv.org/abs/2503.02678)|null|
 |**2025-03-03**|**Temporal Correlations and Inelastic Dynamics in a Vibrated Binary Granular Mixture**|Rameez Farooq Shah et.al.|[2503.01414](http://arxiv.org/abs/2503.01414)|null|
 |**2025-02-28**|**Robust and tunable oxide nanoscrolls for solar-driven H $_2$ generation and storage**|Adway Gupta et.al.|[2503.00217](http://arxiv.org/abs/2503.00217)|null|
-|**2025-02-28**|**Structure and Dynamics of Deep Eutectic Systems from Cluster-Optimized Energy Functions**|Kai Töpfer et.al.|[2502.21233](http://arxiv.org/abs/2502.21233)|null|
+|**2025-02-28**|**Structure and Dynamics of Deep Eutectic Systems from Cluster-Optimized Energy Functions**|Kai Töpfer et.al.|[2502.21233](http://arxiv.org/abs/2502.21233)|**[link](https://github.com/MMunibas/DES3)**|
 |**2025-02-27**|**Atomistic insights into solid solution strengthening: size misfit versus stiffness misfit**|Aoyan Liang et.al.|[2502.19637](http://arxiv.org/abs/2502.19637)|null|
 |**2025-02-26**|**Evidence for strongly correlated superconductivity in La $_3$Ni$_2$O$_7$ from first principles**|Daan Verraes et.al.|[2502.19501](http://arxiv.org/abs/2502.19501)|null|
 |**2025-02-26**|**Towards a robust approach to infer causality in molecular systems satisfying detailed balance**|Vittorio Del Tatto et.al.|[2502.19384](http://arxiv.org/abs/2502.19384)|null|
@@ -1425,7 +1425,7 @@ layout: default
 |**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-06**|**PSDNorm: Test-Time Temporal Normalization for Deep Learning on EEG Signals**|Théo Gnassounou et.al.|[2503.04582](http://arxiv.org/abs/2503.04582)|null|
 |**2025-03-06**|**Research on a Driver's Perceived Risk Prediction Model Considering Traffic Scene Interaction**|Chenhao Yang et.al.|[2503.04516](http://arxiv.org/abs/2503.04516)|null|
-|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-09**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
 |**2025-03-06**|**Precoder Learning for Weighted Sum Rate Maximization**|Mingyu Deng et.al.|[2503.04497](http://arxiv.org/abs/2503.04497)|null|
 |**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
 |**2025-03-06**|**An artificially intelligent magnetic resonance spectroscopy quantification method: Comparison between QNet and LCModel on the cloud computing platform CloudBrain-MRS**|Meijin Lin et.al.|[2503.04469](http://arxiv.org/abs/2503.04469)|null|
@@ -1459,7 +1459,7 @@ layout: default
 |**2025-03-05**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799](http://arxiv.org/abs/2503.03799)|null|
 |**2025-03-05**|**DDCSR: A Novel End-to-End Deep Learning Framework for Cortical Surface Reconstruction from Diffusion MRI**|Chengjin Li et.al.|[2503.03790](http://arxiv.org/abs/2503.03790)|null|
 |**2025-03-05**|**Sarcasm Detection as a Catalyst: Improving Stance Detection with Cross-Target Capabilities**|Gibson Nkhata Shi Yin Hong et.al.|[2503.03787](http://arxiv.org/abs/2503.03787)|null|
-|**2025-03-04**|**Passive Heart Rate Monitoring During Smartphone Use in Everyday Life**|Shun Liao et.al.|[2503.03783](http://arxiv.org/abs/2503.03783)|null|
+|**2025-03-08**|**Passive Heart Rate Monitoring During Smartphone Use in Everyday Life**|Shun Liao et.al.|[2503.03783](http://arxiv.org/abs/2503.03783)|null|
 |**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724](http://arxiv.org/abs/2503.03724)|null|
 |**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
 |**2025-03-05**|**Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO**|Irched Chafaa et.al.|[2503.03561](http://arxiv.org/abs/2503.03561)|null|
@@ -1471,11 +1471,11 @@ layout: default
 |**2025-03-05**|**TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization**|Jiayi Zhang et.al.|[2503.03276](http://arxiv.org/abs/2503.03276)|null|
 |**2025-03-05**|**PathRWKV: Enabling Whole Slide Prediction with Recurrent-Transformer**|Sicheng Chen et.al.|[2503.03199](http://arxiv.org/abs/2503.03199)|null|
 |**2025-03-05**|**Intermediate-Task Transfer Learning: Leveraging Sarcasm Detection for Stance Detection**|Gibson Nkhata et.al.|[2503.03172](http://arxiv.org/abs/2503.03172)|null|
-|**2025-03-05**|**UnPuzzle: A Unified Framework for Pathology Image Analysis**|Dankai Liao et.al.|[2503.03152](http://arxiv.org/abs/2503.03152)|null|
+|**2025-03-05**|**UnPuzzle: A Unified Framework for Pathology Image Analysis**|Dankai Liao et.al.|[2503.03152](http://arxiv.org/abs/2503.03152)|**[link](https://github.com/puzzle-ai/unpuzzle)**|
 |**2025-03-05**|**Exploring Neural Ordinary Differential Equations as Interpretable Healthcare classifiers**|Shi Li et.al.|[2503.03129](http://arxiv.org/abs/2503.03129)|null|
 |**2025-03-05**|**A Multimodal Framework for Topic Propagation Classification in Social Networks**|Yuchuan Jiang et.al.|[2503.03112](http://arxiv.org/abs/2503.03112)|null|
 |**2025-03-05**|**An Improved Pure Fully Connected Neural Network for Rice Grain Classification**|Wanke Xia et.al.|[2503.03111](http://arxiv.org/abs/2503.03111)|null|
-|**2025-03-06**|**HEPHA: A Mixed-Initiative Image Labeling Tool for Specialized Domains**|Shiyuan Zhou et.al.|[2503.03094](http://arxiv.org/abs/2503.03094)|**[link](https://github.com/Neural-Symbolic-Image-Labeling/NSILWeb)**|
+|**2025-03-06**|**HEPHA: A Mixed-Initiative Image Labeling Tool for Specialized Domains**|Shiyuan Zhou et.al.|[2503.03094](http://arxiv.org/abs/2503.03094)|null|
 |**2025-03-05**|**Hopfield Networks Meet Big Data: A Brain-Inspired Deep Learning Framework for Semantic Data Linking**|Ashwin Viswanathan Kannan et.al.|[2503.03084](http://arxiv.org/abs/2503.03084)|null|
 |**2025-03-04**|**Learning from Noisy Labels with Contrastive Co-Transformer**|Yan Han et.al.|[2503.03042](http://arxiv.org/abs/2503.03042)|null|
 |**2025-03-04**|**Multi-Step Deep Koopman Network (MDK-Net) for Vehicle Control in Frenet Frame**|Mohammad Abtahi et.al.|[2503.03002](http://arxiv.org/abs/2503.03002)|null|
@@ -10287,7 +10287,7 @@ layout: default
 |**2025-03-06**|**VenusMutHub: A systematic evaluation of protein mutation effect predictors on small-scale experimental data**|Liang Zhanga et.al.|[2503.04851](http://arxiv.org/abs/2503.04851)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
 |**2025-03-06**|**Biological Sequence with Language Model Prompting: A Survey**|Jiyue Jiang et.al.|[2503.04135](http://arxiv.org/abs/2503.04135)|null|
-|**2025-03-01**|**T-cell receptor specificity landscape revealed through de novo peptide design**|Gian Marco Visani et.al.|[2503.00648](http://arxiv.org/abs/2503.00648)|null|
+|**2025-03-01**|**T-cell receptor specificity landscape revealed through de novo peptide design**|Gian Marco Visani et.al.|[2503.00648](http://arxiv.org/abs/2503.00648)|**[link](https://github.com/StatPhysBio/tcr_antigen_design)**|
 |**2025-02-27**|**ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model**|Chuanliu Fan et.al.|[2502.19794](http://arxiv.org/abs/2502.19794)|null|
 |**2025-02-24**|**Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations**|Narjes Ansari et.al.|[2502.17233](http://arxiv.org/abs/2502.17233)|null|
 |**2025-02-23**|**Auxiliary Discrminator Sequence Generative Adversarial Networks (ADSeqGAN) for Few Sample Molecule Generation**|Haocheng Tang et.al.|[2502.16446](http://arxiv.org/abs/2502.16446)|**[link](https://github.com/clickff/adseqgan)**|
@@ -10566,7 +10566,7 @@ layout: default
 |**2023-10-17**|**TacticAI: an AI assistant for football tactics**|Zhe Wang et.al.|[2310.10553](http://arxiv.org/abs/2310.10553)|null|
 |**2023-10-16**|**Riemannian Residual Neural Networks**|Isay Katsman et.al.|[2310.10013](http://arxiv.org/abs/2310.10013)|null|
 |**2024-11-19**|**GeSS: Benchmarking Geometric Deep Learning under Scientific Applications with Distribution Shifts**|Deyu Zou et.al.|[2310.08677](http://arxiv.org/abs/2310.08677)|**[link](https://github.com/graph-com/gess)**|
-|**2025-02-26**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2310.08051](http://arxiv.org/abs/2310.08051)|null|
+|**2025-03-08**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2310.08051](http://arxiv.org/abs/2310.08051)|null|
 |**2023-12-06**|**Growing ecosystem of deep learning methods for modeling protein $\unicode{x2013}$ protein interactions**|Julia R. Rogers et.al.|[2310.06725](http://arxiv.org/abs/2310.06725)|null|
 |**2023-11-13**|**Joint Group Invariant Functions on Data-Parameter Domain Induce Universal Neural Networks**|Sho Sonoda et.al.|[2310.03530](http://arxiv.org/abs/2310.03530)|null|
 |**2023-11-01**|**Differentiable Modeling and Optimization of Battery Electrolyte Mixtures Using Geometric Deep Learning**|Shang Zhu et.al.|[2310.03047](http://arxiv.org/abs/2310.03047)|null|
@@ -10812,7 +10812,7 @@ layout: default
 |**2024-10-10**|**Near-ideal selection for the Standard Genetic Code**|Michael Yarus et.al.|[2410.07814](http://arxiv.org/abs/2410.07814)|null|
 |**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
 |**2024-10-02**|**Latent Diffusion Models for Controllable RNA Sequence Generation**|Kaixuan Huang et.al.|[2409.09828](http://arxiv.org/abs/2409.09828)|null|
-|**2024-07-29**|**RNACG: A Universal RNA Sequence Conditional Generation model based on Flow-Matching**|Letian Gao et.al.|[2407.19838](http://arxiv.org/abs/2407.19838)|null|
+|**2025-03-08**|**RNACG: A Universal RNA Sequence Conditional Generation model based on Flow-Matching**|Letian Gao et.al.|[2407.19838](http://arxiv.org/abs/2407.19838)|null|
 |**2024-12-13**|**Bridging Sequence-Structure Alignment in RNA Foundation Models**|Heng Yang et.al.|[2407.11242](http://arxiv.org/abs/2407.11242)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
 |**2024-05-29**|**UniIF: Unified Molecule Inverse Folding**|Zhangyang Gao et.al.|[2405.18968](http://arxiv.org/abs/2405.18968)|null|
 |**2024-06-09**|**RNAFlow: RNA Structure & Sequence Design via Inverse Folding-Based Flow Matching**|Divya Nori et.al.|[2405.18768](http://arxiv.org/abs/2405.18768)|**[link](https://github.com/divnori/rnaflow)**|
