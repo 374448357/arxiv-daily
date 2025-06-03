@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2025-04-01**|**Accelerating drug discovery with Artificial: a whole-lab orchestration and scheduling system for self-driving labs**|Yao Fehlis et.al.|[2504.00986](http://arxiv.org/abs/2504.00986)|null|
 |**2025-03-31**|**Pharmolix-FM: All-Atom Foundation Models for Molecular Modeling and Generation**|Yizhen Luo et.al.|[2503.21788](http://arxiv.org/abs/2503.21788)|**[link](https://github.com/pharmolix/openbiomed)**|
 |**2025-03-26**|**Two for the Price of One: Integrating Large Language Models to Learn Biophysical Interactions**|Joseph D. Clark et.al.|[2503.21017](http://arxiv.org/abs/2503.21017)|null|
-|**2025-03-26**|**RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy**|Oren Kraus et.al.|[2503.20158](http://arxiv.org/abs/2503.20158)|null|
+|**2025-05-30**|**RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy**|Oren Kraus et.al.|[2503.20158](http://arxiv.org/abs/2503.20158)|null|
 |**2025-03-20**|**Chem42: a Family of chemical Language Models for Target-aware Ligand Generation**|Aahan Singh et.al.|[2503.16563](http://arxiv.org/abs/2503.16563)|null|
 |**2025-03-20**|**Blend the Separated: Mixture of Synergistic Experts for Data-Scarcity Drug-Target Interaction Prediction**|Xinlong Zhai et.al.|[2503.15796](http://arxiv.org/abs/2503.15796)|**[link](https://github.com/bupt-gamma/mosedti)**|
 |**2025-03-14**|**Basic stability tests of machine learning potentials for molecular simulations in computational drug discovery**|Kavindri Ranasinghe et.al.|[2503.11537](http://arxiv.org/abs/2503.11537)|null|
@@ -248,7 +248,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## DDI
 
@@ -378,7 +378,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## MG
 
@@ -592,7 +592,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## MPP
 
@@ -643,7 +643,7 @@
 |**2025-02-02**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|**[link](https://github.com/linusbao/MoSE)**|
 |**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|**[link](https://github.com/aidotse/leakpro)**|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|**[link](https://github.com/yinhanhe123/new_LLM4GNNExplanation)**|
-|**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|**[link](https://github.com/pnnl/FragNet)**|
+|**2025-05-31**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Levels of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|**[link](https://github.com/pnnl/FragNet)**|
 |**2025-05-26**|**Multimodal Fusion with Relational Learning for Molecular Property Prediction**|Zhengyang Zhou et.al.|[2410.12128](http://arxiv.org/abs/2410.12128)|null|
 |**2024-10-15**|**Large-Scale Knowledge Integration for Enhanced Molecular Property Prediction**|Yasir Ghunaim et.al.|[2410.11914](http://arxiv.org/abs/2410.11914)|**[link](https://github.com/yasir-ghunaim/kano-chebi)**|
 |**2024-12-18**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
@@ -803,7 +803,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## MD
 
@@ -1623,7 +1623,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Transformer
 
@@ -12805,7 +12805,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Binding
 
@@ -12816,7 +12816,7 @@
 |**2025-05-27**|**TumorHoPe2: An updated database for Tumor Homing Peptides**|Diksha Kashyap et.al.|[2505.20913](http://arxiv.org/abs/2505.20913)|null|
 |**2025-05-14**|**Sequence-Only Prediction of Binding Affinity Changes: A Robust and Interpretable Model for Antibody Engineering**|Chen Liu et.al.|[2505.20301](http://arxiv.org/abs/2505.20301)|null|
 |**2025-05-26**|**Beyond Simple Concatenation: Fairly Assessing PLM Architectures for Multi-Chain Protein-Protein Interactions Prediction**|Hazem Alsamkary et.al.|[2505.20036](http://arxiv.org/abs/2505.20036)|null|
-|**2025-05-25**|**Tokenizing Electron Cloud in Protein-Ligand Interaction Learning**|Haitao Lin et.al.|[2505.19014](http://arxiv.org/abs/2505.19014)|null|
+|**2025-05-31**|**Tokenizing Electron Cloud in Protein-Ligand Interaction Learning**|Haitao Lin et.al.|[2505.19014](http://arxiv.org/abs/2505.19014)|null|
 |**2025-05-17**|**Multi-Ligand Simultaneous Docking Analysis of Moringa Oleifera Phytochemicals Reveals Enhanced BCL-2 Inhibition via Synergistic Action**|Asmita Saha et.al.|[2505.12073](http://arxiv.org/abs/2505.12073)|null|
 |**2025-05-17**|**Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking**|Belaguppa Manjunath Ashwin Desai et.al.|[2505.12055](http://arxiv.org/abs/2505.12055)|null|
 |**2025-05-13**|**DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation**|Dan Luo et.al.|[2505.11529](http://arxiv.org/abs/2505.11529)|**[link](https://github.com/shmily-ld/dynamicdta)**|
@@ -13053,7 +13053,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -13228,7 +13228,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Aptamer
 
@@ -13280,7 +13280,7 @@
 |**2007-11-05**|**Three phases in the evolution of the standard genetic code: how translation could get started**|Peter van der Gulik et.al.|[0711.0700](http://arxiv.org/abs/0711.0700)|null|
 |**2007-08-06**|**Calculation of absolute free energy of binding for theophylline and its analogs to RNA aptamer using nonequilibrium work values**|Yoshiaki Tanida et.al.|[0708.0698](http://arxiv.org/abs/0708.0698)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## RNA
 
@@ -13465,7 +13465,7 @@
 |**2009-08-05**|**Target prediction and a statistical sampling algorithm for RNA-RNA interaction**|F. W. D. Huang et.al.|[0908.0597](http://arxiv.org/abs/0908.0597)|null|
 |**2009-03-19**|**RNA-RNA interaction prediction: partition function and base pair pairing probabilities**|Fenix W. D. Huang et.al.|[0903.3283](http://arxiv.org/abs/0903.3283)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
