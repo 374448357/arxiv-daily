@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1668,7 +1668,7 @@ layout: default
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710](http://arxiv.org/abs/2506.14710)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
-|**2025-06-17**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
+|**2025-06-18**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
 |**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597](http://arxiv.org/abs/2506.14597)|null|
 |**2025-06-17**|**Uncertainty in AI-driven Monte Carlo simulations**|Dimitrios Tzivrailis et.al.|[2506.14594](http://arxiv.org/abs/2506.14594)|null|
 |**2025-06-17**|**Object-Centric Neuro-Argumentative Learning**|Abdul Rahman Jacob et.al.|[2506.14577](http://arxiv.org/abs/2506.14577)|null|
@@ -1701,7 +1701,7 @@ layout: default
 |**2025-06-16**|**Deep learning inference with the Event Horizon Telescope II. The Zingularity framework for Bayesian artificial neural networks**|M. Janssen et.al.|[2506.13875](http://arxiv.org/abs/2506.13875)|null|
 |**2025-06-16**|**Deep learning inference with the Event Horizon Telescope I. Calibration improvements and a comprehensive synthetic data library**|M. Janssen et.al.|[2506.13873](http://arxiv.org/abs/2506.13873)|null|
 |**2025-06-13**|**BraTS orchestrator : Democratizing and Disseminating state-of-the-art brain tumor image analysis**|Florian Kofler et.al.|[2506.13807](http://arxiv.org/abs/2506.13807)|null|
-|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
+|**2025-06-18**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
 |**2025-06-16**|**Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**|Kai Long et.al.|[2506.13664](http://arxiv.org/abs/2506.13664)|null|
 |**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652](http://arxiv.org/abs/2506.13652)|**[link](https://github.com/Graph-Machine-Learning-Group/peakweather-wind-forecasting)**|
