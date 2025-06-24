@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -257,7 +257,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## DDI
 
@@ -389,7 +389,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## MG
 
@@ -611,7 +611,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## MPP
 
@@ -828,7 +828,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## MD
 
@@ -1690,7 +1690,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Transformer
 
@@ -1708,7 +1708,7 @@
 |**2025-06-20**|**RCNet: $ΔΣ$ IADCs as Recurrent AutoEncoders**|Arnaud Verdant et.al.|[2506.16903](http://arxiv.org/abs/2506.16903)|null|
 |**2025-06-20**|**RS-Coded Adaptive Dynamic Network for Reliable Long-Term Information Transmission in Disturbed Multimode Fiber**|Yang Hu et.al.|[2506.16859](http://arxiv.org/abs/2506.16859)|null|
 |**2025-06-20**|**TabArena: A Living Benchmark for Machine Learning on Tabular Data**|Nick Erickson et.al.|[2506.16791](http://arxiv.org/abs/2506.16791)|null|
-|**2025-06-20**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|null|
+|**2025-06-23**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|null|
 |**2025-06-20**|**Mesh-Informed Neural Operator : A Transformer Generative Approach**|Yaozhong Shi et.al.|[2506.16656](http://arxiv.org/abs/2506.16656)|null|
 |**2025-06-19**|**Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures**|Vijay Prakash Dwivedi et.al.|[2506.16654](http://arxiv.org/abs/2506.16654)|null|
 |**2025-06-19**|**Overfitting in Histopathology Model Training: The Need for Customized Architectures**|Saghir Alfasly et.al.|[2506.16631](http://arxiv.org/abs/2506.16631)|null|
@@ -1728,7 +1728,7 @@
 |**2025-06-19**|**Advancing atomic electron tomography with neural networks**|Juhyeok Lee et.al.|[2506.16104](http://arxiv.org/abs/2506.16104)|null|
 |**2025-06-19**|**Geometric deep learning assists protein engineering. Opportunities and Challenges**|Julián García-Vinuesa et.al.|[2506.16091](http://arxiv.org/abs/2506.16091)|null|
 |**2025-06-19**|**Aptamer-protein interaction prediction model based on transformer**|Zhichao Yan et.al.|[2506.16084](http://arxiv.org/abs/2506.16084)|null|
-|**2025-06-19**|**VRAIL: Vectorized Reward-based Attribution for Interpretable Learning**|Jina Kim et.al.|[2506.16014](http://arxiv.org/abs/2506.16014)|null|
+|**2025-06-23**|**VRAIL: Vectorized Reward-based Attribution for Interpretable Learning**|Jina Kim et.al.|[2506.16014](http://arxiv.org/abs/2506.16014)|null|
 |**2025-06-19**|**DIGMAPPER: A Modular System for Automated Geologic Map Digitization**|Weiwei Duan et.al.|[2506.16006](http://arxiv.org/abs/2506.16006)|null|
 |**2025-06-19**|**Towards Classifying Histopathological Microscope Images as Time Series Data**|Sungrae Hong et.al.|[2506.15977](http://arxiv.org/abs/2506.15977)|null|
 |**2025-06-19**|**TrainVerify: Equivalence-Based Verification for Distributed LLM Training**|Yunchi Lu et.al.|[2506.15961](http://arxiv.org/abs/2506.15961)|null|
@@ -1771,7 +1771,7 @@
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710](http://arxiv.org/abs/2506.14710)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
-|**2025-06-18**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
+|**2025-06-23**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
 |**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597](http://arxiv.org/abs/2506.14597)|null|
 |**2025-06-17**|**Uncertainty in AI-driven Monte Carlo simulations**|Dimitrios Tzivrailis et.al.|[2506.14594](http://arxiv.org/abs/2506.14594)|null|
 |**2025-06-17**|**Object-Centric Neuro-Argumentative Learning**|Abdul Rahman Jacob et.al.|[2506.14577](http://arxiv.org/abs/2506.14577)|null|
@@ -13418,7 +13418,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Binding
 
@@ -13489,7 +13489,7 @@
 |**2024-12-24**|**PLD-Tree: Persistent Laplacian Decision Tree for Protein-Protein Binding Free Energy Prediction**|Xingjian Xu et.al.|[2412.18541](http://arxiv.org/abs/2412.18541)|null|
 |**2025-06-02**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-18**|**Fool's gold: ligand-receptor interactions and the origins of life**|Betony Adams et.al.|[2412.13836](http://arxiv.org/abs/2412.13836)|null|
-|**2025-04-30**|**Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules**|Andrew G. T. Pyo et.al.|[2412.13722](http://arxiv.org/abs/2412.13722)|null|
+|**2025-06-22**|**Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules**|Andrew G. T. Pyo et.al.|[2412.13722](http://arxiv.org/abs/2412.13722)|null|
 |**2025-01-28**|**Guiding Generative Protein Language Models with Reinforcement Learning**|Filippo Stocco et.al.|[2412.12979](http://arxiv.org/abs/2412.12979)|**[link](https://github.com/ai4pdlab/dpo_plm)**|
 |**2025-03-24**|**FlowDock: Geometric Flow Matching for Generative Protein-Ligand Docking and Affinity Prediction**|Alex Morehead et.al.|[2412.10966](http://arxiv.org/abs/2412.10966)|**[link](https://github.com/bioinfomachinelearning/flowdock)**|
 |**2024-12-09**|**Generative Humanization for Therapeutic Antibodies**|Cade Gordon et.al.|[2412.04737](http://arxiv.org/abs/2412.04737)|null|
@@ -13675,7 +13675,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -13854,7 +13854,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Aptamer
 
@@ -13907,7 +13907,7 @@
 |**2007-11-05**|**Three phases in the evolution of the standard genetic code: how translation could get started**|Peter van der Gulik et.al.|[0711.0700](http://arxiv.org/abs/0711.0700)|null|
 |**2007-08-06**|**Calculation of absolute free energy of binding for theophylline and its analogs to RNA aptamer using nonequilibrium work values**|Yoshiaki Tanida et.al.|[0708.0698](http://arxiv.org/abs/0708.0698)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## RNA
 
@@ -13922,7 +13922,7 @@
 |**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767](http://arxiv.org/abs/2503.20767)|null|
 |**2025-03-24**|**RiboFlow: Conditional De Novo RNA Sequence-Structure Co-Design via Synergistic Flow Matching**|Runze Ma et.al.|[2503.17007](http://arxiv.org/abs/2503.17007)|null|
 |**2025-04-18**|**RiboGen: RNA Sequence and Structure Co-Generation with Equivariant MultiFlow**|Dana Rubin et.al.|[2503.02058](http://arxiv.org/abs/2503.02058)|null|
-|**2025-02-28**|**BAnG: Bidirectional Anchored Generation for Conditional RNA Design**|Roman Klypa et.al.|[2502.21274](http://arxiv.org/abs/2502.21274)|null|
+|**2025-06-23**|**BAnG: Bidirectional Anchored Generation for Conditional RNA Design**|Roman Klypa et.al.|[2502.21274](http://arxiv.org/abs/2502.21274)|null|
 |**2025-02-19**|**DNA Sensing with Whispering Gallery Mode Microlasers**|Soraya Caixeiro et.al.|[2502.13664](http://arxiv.org/abs/2502.13664)|null|
 |**2025-06-20**|**Nature Language Model: Deciphering the Language of Nature for Scientific Discovery**|Yingce Xia et.al.|[2502.07527](http://arxiv.org/abs/2502.07527)|null|
 |**2025-01-08**|**How Large is the Universe of RNA-Like Motifs? A Clustering Analysis of RNA Graph Motifs Using Topological Descriptors**|Rui Wang et.al.|[2501.04258](http://arxiv.org/abs/2501.04258)|**[link](https://github.com/wangru25/psgrnaclustering)**|
@@ -14092,7 +14092,7 @@
 |**2009-08-05**|**Target prediction and a statistical sampling algorithm for RNA-RNA interaction**|F. W. D. Huang et.al.|[0908.0597](http://arxiv.org/abs/0908.0597)|null|
 |**2009-03-19**|**RNA-RNA interaction prediction: partition function and base pair pairing probabilities**|Fenix W. D. Huang et.al.|[0903.3283](http://arxiv.org/abs/0903.3283)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
